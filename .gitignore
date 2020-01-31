@@ -1,6 +1,7 @@
 *~
 *#*
 
+stack.yaml.lock
 # CABAL
 /dist
 /dist-newstyle
@@ -42,3 +43,4 @@ ops/*.retry
 
 # HSpec
 .hspec-failures
+
